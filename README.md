@@ -24,7 +24,7 @@ Use hardhat commands for solidity contracts and npm/yarn commands for react.
 
 You can use various code editors to run this program. VS Code was used here.
 
-Go inside 'vesting' folder after deploying the contract to alchemy or infura.
+Deploy the contract to alchemy or infura.
 Use ```npm run start``` to start a local server of react.
 
 On starting server, a Connect Button is shown. You can connect using a Wallet. Metamask was used in this case.
